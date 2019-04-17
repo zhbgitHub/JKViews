@@ -1,0 +1,16 @@
+PODS:
+  - AKViews (0.1.0)
+
+DEPENDENCIES:
+  - AKViews (from `../`)
+
+EXTERNAL SOURCES:
+  AKViews:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AKViews: bf42733060f97c305e168319c2ccf1501ad844a1
+
+PODFILE CHECKSUM: e67e1d904cacd306147114066eacf0a7a08ee6c4
+
+COCOAPODS: 1.6.1

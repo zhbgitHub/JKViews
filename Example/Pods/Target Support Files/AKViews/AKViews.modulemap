@@ -1,0 +1,6 @@
+framework module AKViews {
+  umbrella header "AKViews-umbrella.h"
+
+  export *
+  module * { export * }
+}

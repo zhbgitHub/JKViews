@@ -1,0 +1,22 @@
+{
+  "name": "AKViews",
+  "version": "0.1.0",
+  "summary": "A short description of AKViews.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhb_mymail@163.com/AKViews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhb_mymail@163.com": "developzhb@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zhb_mymail@163.com/AKViews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AKViews/Classes/**/*"
+}
